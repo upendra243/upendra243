@@ -4,7 +4,7 @@
 ### My experience and interests are-
 * Web Development 
 * Microservices
-* DevOps
+* DevOps/MLOps
 * Deep learning
 * Machine learning
 * Data Analysis
